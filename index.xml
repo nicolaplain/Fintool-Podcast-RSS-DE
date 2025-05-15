@@ -1,0 +1,15 @@
+Dieser Podcast behandelt grundlegende Finanzthemen und erklärt sie in einfacher, verständlicher Sprache. Er richtet sich an Menschen, die ein begrenztes Verständnis der Finanzmärkte haben und ihr Wissen auffrischen oder vertiefen möchten. Von Aktien und Anleihen bis hin zu Indexfonds werden alle grundlegenden Anlageklassen erklärt und in einen breiteren Kontext gestellt. Auf der Videoplattform "https://fintool.ch" steht eine breite Palette von Finanzvideos zur Verfügung.
+
+Dieser Podcast ist ein Angebot von Fintool - Ihre Plattform für Finanzwissen von Dr. Prof. Erwin Heri, Professor an der Universität Basel, Schweiz!
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Fintool Podcast – Deutsch</title>
+    <link>https://nicolaplain.github.io/Fintool-Podcast-RSS-DE/</link>
+    <description>Dieser Podcast behandelt grundlegende Finanzthemen und erklärt sie in einfacher, verständlicher Sprache. Er richtet sich an Menschen, die ein begrenztes Verständnis der Finanzmärkte haben und ihr Wissen auffrischen oder vertiefen möchten. Von Aktien und Anleihen bis hin zu Indexfonds werden alle grundlegenden Anlageklassen erklärt und in einen breiteren Kontext gestellt. Auf der Videoplattform "https://fintool.ch" steht eine breite Palette von Finanzvideos zur Verfügung. Dieser Podcast ist ein Angebot von Fintool - Ihre Plattform für Finanzwissen von Dr. Prof. Erwin Heri, Professor an der Universität Basel, Schweiz!
+</description>
+    <language>de-de</language>
+    <!-- Hier kommen die <item>-Einträge aus episodes/*.xml -->
+  </channel>
+</rss>
