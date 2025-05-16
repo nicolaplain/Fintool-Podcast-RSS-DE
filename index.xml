@@ -17,7 +17,20 @@
       <itunes:category text="Investing"/>
     </itunes:category>
 
-    <!-- Episoden werden hier dynamisch von n8n eingefügt -->
+   <item>
+  <title>Demo-Episode</title>
+  <link>https://fintool.ch/podcast/episode001</link>
+  <description><![CDATA[
+    Dies ist eine Demofolge. Sie zeigt, wie der Fintool-Podcast funktioniert.
+    - Thema: Einführung in ETFs
+    - Dauer: 5 Minuten
+    - Sprecher: Prof. Dr. Erwin Heri
+  ]]></description>
+  <pubDate>Mon, 29 Apr 2024 10:00:00 GMT</pubDate>
+  <enclosure url="https://file-examples.com/storage/fe1da334957bfb2e9dbea7c/2017/11/file_example_MP3_700KB.mp3" length="700000" type="audio/mpeg"/>
+  <guid>demo-episode</guid>
+  <itunes:explicit>no</itunes:explicit>
+</item>
 
   </channel>
 </rss>
